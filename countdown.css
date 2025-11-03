@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #ffb6c1, #ff69b4);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+   
+  #countdown {
+    font-size: 2em;
+    letter-spacing: 2px;
+  }
+  
+  .note {
+    margin-top: 20px;
+    font-style: italic;
+    opacity: 0.8;
+  }
